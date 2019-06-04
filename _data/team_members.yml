@@ -1,24 +1,24 @@
 - name: Yang Yujiu
   photo: yangyujiu.jpg
   info: Assistant Professor
-  url: stephansanders
+  url: yangyujiu
   group: 0
   
-- name: Donna Werling
-  photo: donnawerling.jpg
-  info: Postdoctoral Scholar
-  url: donnawerling
+- name: Lei Zeyang
+  photo: blank.png
+  info: Undergraduate Student
+  url: leizeyang
   group: 1
   
-- name: Joon An
-  photo: joonan.jpg
-  info: Postdoctoral Scholar
+- name: Gao Wenqiang
+  photo: blank.png
+  info: Undergraduate Student
   url: joonan
   group: 1
   
-- name: Shan Dong
-  photo: shandong.jpg
-  info: Postdoctoral Scholar
+- name: Xia Weihao
+  photo: blank.png
+  info: Undergraduate Student
   url: shandong
   group: 1
 
