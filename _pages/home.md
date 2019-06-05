@@ -1,36 +1,45 @@
 ---
-title: "Sanders Lab - Home"
+title: "icLab - Home"
 layout: homelay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "icLab at THU."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Sanders Lab at UCSF
+# Welcome to icLab at THU
 
+课题组主要开展机器学习、人工智能基础研究，探索在自然语言处理、视觉图像理解和分析等领域应用。长期同腾讯AI Lab和华为诺亚方舟实验室开展合作，欢迎有志于人工智能方向的同学报考。
 
-![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+1. **自然语言处理、Web数据挖掘技术及聊天机器人对话系统研究**
 
+在研项目：
 
-The Sanders Lab aims to identify the etiology of developmental disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to continue this progress, leverage these findings to build a more complete understanding of ASD, and to extend this approach to other human disorders, including congenital malformations.
+[-] 基于深度学习的评论数据挖掘及其在推荐系统应用研究   深圳市科技计划
 
+[-] 深度神经网络及其记忆机制在中文知识表示与推理中的适应性研究   深圳市科技计划
 
-There are five main areas of research:
+[-] 基于腾讯平台应用的协同过滤推荐算法研究       NSFC-广东联合基金专项
 
-1. **Gene discovery**: Genomic analysis of DNA using high-throughput sequencing to identify genes associated with human disorders
-2. **Understanding the noncoding genome**: Using whole-genome sequencing to identify the elements of the noncoding genome that contribute to ASD
-3. **The role of SCN2A in human disorders**: SCN2A mutations are one of the most common causes of ASD; we aim to understand how this risk is mediated with the view to developing therapeutics
-4. **Understanding neurodevelopment**: Leveraging functional genomic data to understand physiological brain development and the pathology associated with neuropsychiatric disorders
-5. **Sex bias in ASD**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with ASD
+1. **自视觉图像理解和分析及多模态人机交互**
 
-### Technologies and methods
-The Sanders Lab is primarily a bioinformatic group that uses a wide range of genomic, bioinformatic, and statistical methods including: whole-exome sequencing, whole-genome sequencing, de novo mutation detection, RNA-Seq, and ChIP-Seq.
+组内对相关滤波器单目标跟踪和图像增强做了一定积累，目前在研项目包括：
+
+[-] 移动平台的目标识别和跟踪                        
+
+[-] 基于光场的真三维视频采集与生成      科技部863计划
+
 
 ### Collaborators
-We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](http://www.psychiatry.pitt.edu/person/bernard-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
+We work with closely with numerous collaborators, including the [Tencent AI Lab](https://ai.tencent.com/) and [Noah Lab](www.noahlab.com.hk) at Huawei.
 
-### Joining Sanders Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+### Contact
+电话：0755-26032552　　
+邮箱：yang.yujiu@sz.tsinghua.edu.cn
+
+### Joining our Lab
+所属学科：控制科学与工程，大数据，清华大学国际开放创新教育中心(Open FIESTA) 
+
+（注：本人主要从自动化和Open FIESTA招生，联系就读研究生的同学请报考自动化系控制工程方向085210和Open FIESTA的Bio 0831J4或者IID 0812J3）
 
 ### Funding
 We are grateful for funding from the [National Institute of Mental Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
