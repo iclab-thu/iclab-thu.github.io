@@ -6,131 +6,127 @@
   
 - name: Lei Zeyang
   photo: blank.png
-  info: Undergraduate Student
+  info: 3rd-year Undergraduate Student
   url: leizeyang
   group: 1
   
 - name: Gao Wenqiang
   photo: blank.png
-  info: Undergraduate Student
-  url: joonan
+  info: 3rd-year Undergraduate Student
+  url: gaowenqiang
   group: 1
   
 - name: Xia Weihao
   photo: blank.png
-  info: Undergraduate Student
-  url: shandong
+  info: 3rd-year Undergraduate Student
+  url: xiaweihao
+  group: 1
+  
+ - name: Pan Zhaoming
+  photo: blank.png
+  info: 3rd-year Undergraduate Student
+  url: Zhaoming
   group: 1
 
-- name: Brooke Sheppard
-  photo: brookesheppard.jpg
-  info: Postdoctoral Scholar
+- name: Li Tuanhui
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
   url: brookesheppard
   group: 1
   
-- name: David Young
-  photo: davidyoung.jpg
-  info: Postdoctoral Scholar
-  url: davidyoung
+- name: Shi Yunzhou
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+- name: Wang Yiru
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+- name: Hou Guanqun
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+- name: Zhuang Xinrui
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+  - name: Zhang Fubo
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+- name: Man Xiliu
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+ 
+ - name: Ding Lifang
+  photo: blank.png
+  info: 2nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+  - name: Wu Yue
+  photo: blank.png
+  info: Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+- name: Si Pengda
+  photo: blank.png
+  info: 1nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+ - name: Cao Siyun
+  photo: blank.png
+  info: 1nd-year Undergraduate Student
+  url: brookesheppard
   group: 1
 
-- name: Grace Schwartz
-  photo: graceschwartz.jpg
-  info: Staff Research Associate II
-  url: graceschwartz
-  group: 2
+- name: Yu Miaomiao
+  photo: blank.png
+  info: 1nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+- name: Wu Sijin
+  photo: blank.png
+  info: 1nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
+  
+- name: Gong Dezheng
+  photo: blank.png
+  info: 1nd-year Undergraduate Student
+  url: brookesheppard
+  group: 1
 
-- name: Clif Duhn
-  photo: clifduhn.jpg
-  info: Laboratory Manager
-  url: clifduhn
+- name: Hu Xiaoxiang
   group: 2
   
-- name: Michael Gilson
-  photo: michaelgilson.jpg
-  info: Bioinformatics Programmer​ III
-  url: michaelgilson
-  group: 3
-
-- name: Lindsay Liang
-  photo: lindsayliang.jpg
-  info: Bioinformatics Programmer​ I
-  url: lindsayliang
-  group: 3
-
-- name: Claudia Dastmalchi
-  photo: claudiaddastmalchi.jpg
-  info: Bioinformatics Programmer​ I
-  url: claudiaddastmalchi
-  group: 3
-
-- name: Sindy Law
-  photo: sindylaw.jpg
-  info: Application Developer/Database Programmer​
-  url: sindylaw
-  group: 3
-
-- name: Mai Nojima
-  photo: mainojima.jpg
-  info: Undergraduate Research Volunteer
-  url: mainojima
-  group: 4
-
-- name: Deniz Yuruk
-  photo: denizyuruk.jpg
-  info: Visiting Scholar
-  url: denizyuruk
-  group: 4
-  year: 2017
+- name: Zhang Ruyi
+  group: 2
+  
+- name: Zhu Pengcheng
+  group: 2
 
 - name: Louw Smith
   info: Data Operations Manager
   url: louwsmith
-  group: 8
+  group: 3
   year: 2015-2016
   current: Instructor, Brandeis University
   extlink: https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0
-
-- name: Eddie Gao
-  info: Summer Intern
-  url: eddiegao
-  group: 8
-  year: 2017
-  current: Undergraduate, UC Berkeley
-
-- name: Alexandria Alpy
-  info: Summer Intern
-  url: alexandriaalpy
-  group: 8
-  year: 2017
-  current: Ohio State University
-
-- name: Flora Zhao
-  info: High School Research Volunteer
-  url: florazhao
-  group: 8
-  year: 2017
-  current: 
-
-- name: Jason Zhao
-  info: High School Research Volunteer
-  url: jasonzhao
-  group: 8
-  year: 2017
-  current: 
-
-- name: Carmen Sandoval
-  info: Neuroscience Rotation Student
-  url: carmensandoval
-  group: 8
-  year: 2018
-  current: Neuroscience Graduate Program, UCSF
-
-- name: Immanuel Zion
-  info: Summer Intern
-  url: immanuelzion
-  group: 8
-  year: 2018
-  current: Bard College
   
  
