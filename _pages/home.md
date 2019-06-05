@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to icLab at THU
+[comment]: <> (# Welcome to icLab at THU）
 
 课题组主要开展机器学习、人工智能基础研究，探索在自然语言处理、视觉图像理解和分析等领域应用。长期同腾讯AI Lab和华为诺亚方舟实验室开展合作，欢迎有志于人工智能方向的同学报考。
 
